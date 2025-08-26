@@ -16,7 +16,11 @@ The only working **recovery patcher** tool that lives to patch Samsung's recover
 - The patches are tested but the script is not tested because i don't have time to work much on development. Feel free to try it out if interested! Thank you.
 ---
 
-
 ### Pre-requisites:
 - tar
 - lz4
+
+### Setup:
+- Clone the repo and switch to the repository directory
+- (if want you to automate) Open customize.sh in a text editor> edit the `expectedRecoveryFilePath` variable value to te file path.
+- Give executive permissions (`chmod +x`) to customize.sh and just run it.
