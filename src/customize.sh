@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Copyright (C) 2025 愛子あゆみ <ayumi.aiko@outlook.com>
+# Copyright (C) 2025 ぼっち <ayumi.aiko@outlook.com>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -87,7 +87,7 @@ export patchedRecoveryFilePath="$(realpath ./patched-recovery.img)"
 
 # main:
 echo "PatchRecoveryRevived"
-echo "Made by: Ravindu Deshan and simplyfied by 愛子あゆみ"
+echo "Made by: Ravindu Deshan and simplyfied by ぼっち"
 echo "Based on: v3.0"
 echo "License Template: GNU GPLv3"
 echo "Trying to unpack the recovery image.."
